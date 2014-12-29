@@ -1,0 +1,21 @@
+{
+  // Charset and Line Ending
+  "default_encoding": "UTF-8",
+  "default_line_ending": "unix",
+
+  // Identation
+  "translate_tabs_to_spaces": true,
+  "smart_indent": true,
+  "use_tab_stops": true,
+  "tab_size": 2,
+  "auto_indent": true,
+
+  // White space
+  "trim_trailing_white_space_on_save": true,
+  "ensure_newline_at_eof_on_save": true
+
+  // Highlighting
+  "draw_white_space": "all",
+  "highlight_line": true
+
+}
