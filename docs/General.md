@@ -47,6 +47,6 @@ Every editor/IDE has some way of applying these settings. Some editors have also
 
 ### Ready to use setting files
 
-* EditorConfig file: [config/general/.editorconfig](config/general/.editorconfig)
-* SublimeText settings file: [config/general/general.sublime-settings](config/general/general.sublime-settings)
-* Vim settings file: [config/general/.general.vimrc](config/general/.general.vimrc)
+* EditorConfig file: [config/general/.editorconfig](../config/general/.editorconfig)
+* SublimeText settings file: [config/general/general.sublime-settings](../config/general/general.sublime-settings)
+* Vim settings file: [config/general/.general.vimrc](../config/general/.general.vimrc)
