@@ -1,5 +1,7 @@
 # Coding Styleguides
 
+**[WIP] THIS IS WORK IN PROGRESS**
+
 Below lie the general and specific guidelines for writing code.
 
 They are seperated according to the following list:
